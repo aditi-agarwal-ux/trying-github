@@ -1,2 +1,6 @@
 # trying-github.
-hi
+hi this is aditi.
+# teacher
+shradhha
+# student
+aditi
